@@ -5,7 +5,7 @@ Want to brew a beer from BrewDog's DIY Dog, but not sure which one you want? Let
 ## Setup
 
 ### 0. Cloning and installation
-- [ ] Clone this repo, navigate to it, install packages, and start the server with `npm run dev`
+- [ ] Clone this repo, navigate to it, install packages, and start the server with `npm start`
   <details style="padding-left: 2em">
     <summary>Tip</summary>
 
