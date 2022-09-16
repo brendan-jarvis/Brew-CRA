@@ -10,9 +10,9 @@ Want to brew a beer from BrewDog's DIY Dog, but not sure which one you want? Let
     <summary>Tip</summary>
 
     ```sh
-    cd consuming-external-apis
+    cd brew/
     npm i
-    npm run dev
+    npm start
     ```
   </details>
 
